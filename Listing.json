@@ -1,0 +1,102 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "title": "Generic SUV",
+      "price": "1800000",
+      "quantity" :0,
+      "image_preview": "https://media.istockphoto.com/id/1307086581/photo/generic-small-modern-electric-car-in-concrete-garage.jpg?s=1024x1024&w=is&k=20&c=YjsW8SwqlRMqb1DpJcjUe8ZfH-ZBk-0SZXkc_6sNTvg="
+    },
+    {
+      "id": 2,
+      "title": "Modern sports",
+      "price": "990000",
+      "quantity" :0,
+      "image_preview": "https://media.istockphoto.com/id/1307086563/photo/generic-modern-sports-car-in-concrete-garage.jpg?s=1024x1024&w=is&k=20&c=ANOLIeCqEzw6dwRKj-cFWpLUDZcBOWq-lUIKRqtCpEY="
+    },
+    {
+      "id": 3,
+      "title": "New lower",
+      "price": "1100000",
+      "quantity" :0,
+      "image_preview": "https://media.istockphoto.com/id/908692258/photo/car-on-gray-studio-background-blue-paint.jpg?s=1024x1024&w=is&k=20&c=o8vhafdTSUsOA2q-EymSmNhFCKbSVk6jX8J8VsMuvAE="
+    },
+    {
+      "id": 4,
+      "title": "Juneteenth",
+      "price": "1000000",
+      "quantity" :0,
+      "image_preview": ""
+    },
+    {
+      "id": 5,
+      "title": "Generic SUV",
+      "price": "1800000",
+      "quantity" :0,
+      "image_preview": "https://media.istockphoto.com/id/908696104/photo/car-on-gray-studio-background-white-paint.jpg?s=1024x1024&w=is&k=20&c=BmgSqt028uwfdfaqazS6Sye4w8yl2tSNHrX6SiPELoc="
+    },
+    {
+      "id": 6,
+      "title": "Verona XVC",
+      "price": "1099000",
+      "quantity" :0,
+      "image_preview": "https://images.unsplash.com/photo-1717347424087-842a99131d8e?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 7,
+      "title": "Ford Mustang",
+      "price": "1800000",
+      "quantity" :0,
+      "image_preview": "https://images.unsplash.com/photo-1610286304609-6e3ed57352d7?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 8,
+      "title": "Generic modern SUV",
+      "price": "1800000",
+      "quantity" :0,
+      "image_preview": "https://media.istockphoto.com/id/1307086581/photo/generic-small-modern-electric-car-in-concrete-garage.jpg?s=1024x1024&w=is&k=20&c=YjsW8SwqlRMqb1DpJcjUe8ZfH-ZBk-0SZXkc_6sNTvg="
+    },
+    {
+      "id": 9,
+      "title": "Generic modern",
+      "price": "990000",
+      "quantity" :0,
+      "image_preview": "https://media.istockphoto.com/id/1307086563/photo/generic-modern-sports-car-in-concrete-garage.jpg?s=1024x1024&w=is&k=20&c=ANOLIeCqEzw6dwRKj-cFWpLUDZcBOWq-lUIKRqtCpEY="
+    },
+    {
+      "id": 10,
+      "title": "New lower",
+      "price": "1100000",
+      "quantity" :0,
+      "image_preview": "https://media.istockphoto.com/id/908692258/photo/car-on-gray-studio-background-blue-paint.jpg?s=1024x1024&w=is&k=20&c=o8vhafdTSUsOA2q-EymSmNhFCKbSVk6jX8J8VsMuvAE="
+    },
+    {
+      "id": 11,
+      "title": "Juneteenth",
+      "price": "1000000",
+      "quantity" :0,
+      "image_preview": "https://media.istockphoto.com/id/908696582/photo/car-on-gray-studio-background.jpg?s=1024x1024&w=is&k=20&c=vNtEoC4qa9S-JncTzacoJ_H4Y3C4EpkfKtbBxQQQ7O4="
+    },
+    {
+      "id": 12,
+      "title": "Generic SUV",
+      "price": "1800000",
+      "quantity" :0,
+      "image_preview": "https://media.istockphoto.com/id/908696104/photo/car-on-gray-studio-background-white-paint.jpg?s=1024x1024&w=is&k=20&c=BmgSqt028uwfdfaqazS6Sye4w8yl2tSNHrX6SiPELoc="
+    },
+    {
+      "id": 13,
+      "title": "Verona XVC",
+      "price": "1099000",
+      "quantity" :0,
+      "image_preview": "https://images.unsplash.com/photo-1717347424087-842a99131d8e?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 14,
+      "title": "Ford Mustang",
+      "price": "1800000",
+      "quantity" :0,
+      "image_preview": "https://images.unsplash.com/photo-1610286304609-6e3ed57352d7?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  ]
+}
